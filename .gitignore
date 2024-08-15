@@ -1,0 +1,11 @@
+# add tipical python gitignore rules
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+venv/
+
+.env
+.promptflow
